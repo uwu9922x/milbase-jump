@@ -3,7 +3,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 -- CONFIG
-local SLOPE_BOOST = 130
+local SLOPE_BOOST = 140
 
 local holdingS = false
 local holdingAorD = false
